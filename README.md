@@ -1,7 +1,7 @@
 
 # Simple UPD Chat
 
-This is a simple clinet to server chat using UDP
+This is a simple client-to-server chat using UDP
 
 
 
